@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-최초 챗봇 만들기!!
-근데 어렵다~
+최초 챗봇 만들기!! 근데 어렵다~
 
 
 ### Markdown
